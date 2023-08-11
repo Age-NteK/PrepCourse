@@ -1,1 +1,1 @@
-Ésta es una prueba 
+En mi emocionante proyecto "Homeworks", he embarcado en un apasionante viaje de **aprendizaje** y crecimiento en el mundo de la programación. A través de un enfoque centrado en la **práctica y la resolución de problemas**, he adquirido habilidades valiosas que impulsarán mi capacidad para crear soluciones tecnológicas innovadoras.
